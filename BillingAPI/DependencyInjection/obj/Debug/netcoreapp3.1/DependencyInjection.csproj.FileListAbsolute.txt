@@ -1,0 +1,16 @@
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\Domains.dll
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\Entity.dll
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\BillingAPI\BillingAPI\DependencyInjection\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\BillingAPI\BillingAPI\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
+D:\BillingAPI\BillingAPI\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+D:\BillingAPI\BillingAPI\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+D:\BillingAPI\BillingAPI\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\BillingAPI\BillingAPI\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
+D:\BillingAPI\BillingAPI\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\BillingAPI\BillingAPI\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb

@@ -1,0 +1,14 @@
+D:\BillingAPI\BillingAPI\Domains\bin\Debug\netcoreapp3.1\Domains.deps.json
+D:\BillingAPI\BillingAPI\Domains\bin\Debug\netcoreapp3.1\Domains.dll
+D:\BillingAPI\BillingAPI\Domains\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\BillingAPI\BillingAPI\Domains\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\BillingAPI\BillingAPI\Domains\bin\Debug\netcoreapp3.1\Entity.dll
+D:\BillingAPI\BillingAPI\Domains\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\BillingAPI\BillingAPI\Domains\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\BillingAPI\BillingAPI\Domains\obj\Debug\netcoreapp3.1\Domains.csprojAssemblyReference.cache
+D:\BillingAPI\BillingAPI\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfoInputs.cache
+D:\BillingAPI\BillingAPI\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfo.cs
+D:\BillingAPI\BillingAPI\Domains\obj\Debug\netcoreapp3.1\Domains.csproj.CoreCompileInputs.cache
+D:\BillingAPI\BillingAPI\Domains\obj\Debug\netcoreapp3.1\Domains.csproj.CopyComplete
+D:\BillingAPI\BillingAPI\Domains\obj\Debug\netcoreapp3.1\Domains.dll
+D:\BillingAPI\BillingAPI\Domains\obj\Debug\netcoreapp3.1\Domains.pdb

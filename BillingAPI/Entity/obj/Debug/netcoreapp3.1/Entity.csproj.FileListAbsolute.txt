@@ -1,0 +1,9 @@
+D:\BillingAPI\BillingAPI\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+D:\BillingAPI\BillingAPI\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+D:\BillingAPI\BillingAPI\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\BillingAPI\BillingAPI\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+D:\BillingAPI\BillingAPI\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+D:\BillingAPI\BillingAPI\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+D:\BillingAPI\BillingAPI\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+D:\BillingAPI\BillingAPI\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
+D:\BillingAPI\BillingAPI\Entity\obj\Debug\netcoreapp3.1\Entity.csprojAssemblyReference.cache
